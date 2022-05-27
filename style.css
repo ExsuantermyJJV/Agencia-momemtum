@@ -28,7 +28,7 @@ ul {
 }
 
 .logo span {
-    color: #26e70c;
+    color: #0af00a;
 }
 
 .contact-wrapper {
@@ -70,11 +70,11 @@ ul {
     background: none;
     outline: 0;
     color: rgb(248, 246, 246);
-    border-bottom: 1px solid #26e70c;;
+    border-bottom: 1px solid #0af00a;;
 }
 
 .contact-form form button {
-    background: #06f006;
+    background: #0af00a;;
     border: 0;
     text-transform: uppercase;
     padding: 1em;
