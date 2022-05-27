@@ -3,8 +3,8 @@
 }
 
 body {
-    background: #181818;
-    color: #fff;
+    background: #020202;
+    color: rgb(253, 253, 253);
     line-height: 1.6;
     font-family: 'Quicksand', sans-serif;
     padding: 0 1.5em;
@@ -32,7 +32,7 @@ ul {
 }
 
 .contact-wrapper {
-    box-shadow: 0 0 20px 0 rgba(7, 7, 7, 0.3);
+    box-shadow: 0 0 20px 0 rgba(233, 229, 229, 0.3);
 }
 
 .contact-wrapper > * {
@@ -40,7 +40,7 @@ ul {
 }
 
 .contact-form {
-    background: #222222;
+    background: #2e2e2e;
 }
 
 .contact-form form {
@@ -74,7 +74,7 @@ ul {
 }
 
 .contact-form form button {
-    background: #080808;;
+    background: #06f006;
     border: 0;
     text-transform: uppercase;
     padding: 1em;
@@ -82,15 +82,15 @@ ul {
 
 .contact-form form button:hover,
 .contact-form form button:focus {
-    background: #06f006;
-    color: rgb(0, 0, 0);
+    background: #f5fdf7;
+    color: rgb(2, 2, 2);
     transition: background-color 1s ease-out;
     outline: 0;
 }
 
 /* CONTACT INFO */
 .contact-info {
-    background: #000;
+    background: rgb(77, 75, 75);
 }
 
 .contact-info h4, .contact-info ul, .contact-info p {
