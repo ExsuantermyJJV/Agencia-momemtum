@@ -40,7 +40,7 @@ ul {
 }
 
 .contact-form {
-    background: #2e2e2e;
+    background: white;
 }
 
 .contact-form form {
@@ -69,7 +69,7 @@ ul {
     border: none;
     background: none;
     outline: 0;
-    color: #ff000020;
+    color: white;
     border-bottom: 1px solid #0af00a;;
 }
 
@@ -83,7 +83,7 @@ ul {
 .contact-form form button:hover,
 .contact-form form button:focus {
     background: #f5fdf7;
-    color: white);
+    color: black);
     transition: background-color 1s ease-out;
     outline: 0;
 }
