@@ -69,7 +69,7 @@ ul {
     border: none;
     background: none;
     outline: 0;
-    color: none;
+    color: #ff000020;
     border-bottom: 1px solid #0af00a;;
 }
 
@@ -108,7 +108,7 @@ ul {
         grid-template-columns: 2fr 1fr;
     }
     .contact-wrapper > * {
-        padding: 2em;
+        padding: 3em;
     }
     .contact-info h4,
     .contact-info ul,
