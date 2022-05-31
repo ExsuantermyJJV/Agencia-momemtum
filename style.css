@@ -83,13 +83,14 @@ ul {
 .contact-form form button:hover,
 .contact-form form button:focus {
     background: #f5fdf7;
-    color: rgb(2, 2, 2);
+    color: white);
     transition: background-color 1s ease-out;
     outline: 0;
 }
 
 .contact-info {
     background: rgb(77, 75, 75);
+     text-align: center;
 }
 
 .contact-info h4, .contact-info ul, .contact-info p {
