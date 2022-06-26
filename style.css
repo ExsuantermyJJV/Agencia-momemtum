@@ -123,6 +123,10 @@ button {
     }
    }
 /*   */
+.logitos{
+    display: flex;
+    width: 4%;
+}
 
 * {
     font-family: 'Poppins', sans-serif;
