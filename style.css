@@ -232,7 +232,7 @@ body {
     align-items: center;
     position: relative;
     cursor: pointer;
-    font-size: 150%;
+    font-size: 200%;
   }
 
   .iframe2{
@@ -277,6 +277,10 @@ height: 500px;
 
     .iframe2{
         width: 90%
+    }
+    
+     .accordion-item-header{
+        font-size: 130%;
     }
 
     
