@@ -301,6 +301,19 @@ height: 500px;
         width: 90%
     }
     
+    .newsletter{
+    display: grid;
+}
+.texto{
+    text-align: center;
+
+}
+.send{
+    
+    text-align: center;
+}
+
+    
      .accordion-item-header{
         font-size: 130%;
     }
