@@ -899,7 +899,7 @@ body{
 
 .logoimg{
     height: 5vh;
-    position: fixed;
+    position: absolute;
     left: 17vh;
 }
 
