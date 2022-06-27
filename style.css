@@ -3,10 +3,7 @@
 
 /*  */
 *{
-	padding: 0;
-	margin: 0;
 	box-sizing: border-box;
-	font-family: 'Poppins', sans-serif;
 	text-decoration: none;
 	list-style: none;
 	scroll-behavior: smooth;
@@ -35,8 +32,8 @@ section{
 	margin-bottom: 5px;
 }
 .news-text p{
-	font-size: 1.5vh;
-	color: var(--second-color);
+	font-size: 1.3vh;
+	color: white;
 	line-height: 30px;
 }
 .newsletter form{
