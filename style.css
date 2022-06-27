@@ -555,7 +555,7 @@ header .fa-bars {
     justify-content: center;
     flex-flow: column;
     padding-top: 7rem;
-    padding-bottom: 5rem;
+    padding-bottom: 0;
     text-align: center;
 }
 
