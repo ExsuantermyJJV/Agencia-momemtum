@@ -8,8 +8,11 @@ align-items: center;
 justify-content: center;
 font-size: 1.5vh;
     background-color: white;
+    
 }
-
+.texto{
+    color: rgb(0, 0, 0);
+}
 
 .send{
     padding-left: 10%;
