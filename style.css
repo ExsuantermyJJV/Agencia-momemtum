@@ -297,6 +297,10 @@ height: 500px;
 
 @media screen and (max-width:900px){
 
+      .logoimg{
+        padding-left: 6px;
+    }
+    
     .iframe2{
         width: 90%
     }
